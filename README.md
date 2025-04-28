@@ -1,6 +1,8 @@
-<div>
-  <h2 align="left">Hey there! 👋 I’m Jaideep Dahiya, a passionate B.Tech student on the verge of graduating in Computer Science. Excited about the journey ahead and ready to dive into the tech world!</h2>
-<div>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <h2 style="margin: 0;">Hey there! 👋 I’m Jaideep Dahiya, a passionate B.Tech student on the verge of graduating in Computer Science. Excited about the journey ahead and ready to dive into the tech world!</h2>
+  <img src=".github/workflows/main_image.png" height="120" style="padding: 20">
+</div>
+
 
 
 <div align="center">
